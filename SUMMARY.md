@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
    * [Навчання грамоти](navchannya_gramoty.md)
    * [Мовленнєва змістова лінія](movlennyeva_zmistova_liniya.md)

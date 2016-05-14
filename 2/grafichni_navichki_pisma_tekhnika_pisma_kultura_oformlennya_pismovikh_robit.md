@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
-Письмо на дошці</td>
+Письмо на дошці.</td>
     <td width="60%" style="vertical-align:top !important;">
 <i>виконує</i> письмові завдання на дошці, зберігаючи пропорційність літер.</td>
   </tr>

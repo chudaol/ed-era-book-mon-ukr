@@ -72,9 +72,9 @@
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
-Удосконалення тексту</td>
+Удосконалення тексту.</td>
     <td width="60%" style="vertical-align:top !important;">
-<i>бере участь</i> у колективному вдосконаленні тексту<br></td>
+<i>бере участь</i> у колективному вдосконаленні тексту.<br></td>
   </tr>
 </tbody>
 </table>

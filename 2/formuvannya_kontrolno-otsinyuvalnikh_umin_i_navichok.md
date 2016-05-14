@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
-Оцінювання результатів навчання</td>
+Оцінювання результатів навчання.</td>
     <td width="60%" style="vertical-align:top !important;">
 <i>оцінює</i> результати навчання свої й однокласників за орієнтирами, даними вчителем.</td>
   </tr>

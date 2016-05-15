@@ -9,7 +9,7 @@
 <tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
-    <p><b>Текст</b> (<i>9 годин</i> і протягом року)<br>
+    <p><b>Текст</b> (9 годин і протягом року)<br>
 Розширення уявлень про текст та його будову. Уявлення про змістовий зв’язок між частинами тексту.<br></td>
     <td width="60%" style="vertical-align:top !important;">
 <i><b>Учень (учениця):</b></i><br>

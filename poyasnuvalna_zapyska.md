@@ -24,3 +24,6 @@
 <li><b><i>«Соціокультурна змістова лінія»;</i></b></li>
 <li><b><i>«Діяльнісна змістова лінія».</b></i></li>
 </ul>
+
+<div id="hypercomments_widget"></div>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

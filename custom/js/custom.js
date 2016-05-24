@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  function hypercommnet () {
+  function hypercomment () {
      $(".book-body .body-inner").scrollTop($(".book-body .body-inner")[0].scrollHeight);
     _hcwp = window._hcwp || [];
     _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
@@ -45,7 +45,7 @@ $(document).ready(function () {
       }
     });
     if ($("#hypercomments_widget").length > 0) {
-      hypercommnet();
+      hypercomment();
     }
   }
   

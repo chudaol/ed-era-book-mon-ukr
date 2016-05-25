@@ -1,3 +1,6 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget
+invisible"></div>
+
 Діяльнісна змістова лінія
 =============================================
 <p>Діяльнісна лінія передбачає формування в молодших школярів загальнонавчальних умінь і навичок:
@@ -10,5 +13,7 @@
 </p>
 <p>Ця робота здійснюється у процесі реалізації інших змістових ліній шляхом настанов учителя, використання різних алгоритмів навчальної діяльності, пам’яток, зразків, інструкцій, застосування парних і групових форм роботи, інтерактивних методів і прийомів навчання тощо.</p>
 
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<div class="js-hypercomments-container">
+ <a href="http://hypercomments.com" class="hc-link" title="comments
+widget">comments powered by HyperComments</a>
+</div>

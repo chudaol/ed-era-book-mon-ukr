@@ -1,22 +1,8 @@
-{   
-    "plugins": [
-        "addcssjs",
-        "quiz",
-        "-mathjax",
-        "-comment",
-        "-search",
-        "-sharing"
-    ],
+{
+    "gitbook": ">=3.0.0-pre.11",
+    "title": "GitBook Help Center",
+    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz"],
     "pluginsConfig": {
-        "sharing": {
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": []
-        },
         "addcssjs": {
             "css": [
                 "custom/css/style.css"
@@ -40,7 +26,7 @@
         }
     },
     "variables": {
-      "basePath": "http://ukrmon14.ed-era.com"
+      "basePath": "http://readmon24.ed-era.com/"
     },
     "links": {
         "gitbook": false,

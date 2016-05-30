@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 Діяльнісна змістова лінія
 =============================================
@@ -14,6 +13,5 @@ invisible"></div>
 <p>Ця робота здійснюється у процесі реалізації інших змістових ліній шляхом настанов учителя, використання різних алгоритмів навчальної діяльності, пам’яток, зразків, інструкцій, застосування парних і групових форм роботи, інтерактивних методів і прийомів навчання тощо.</p>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

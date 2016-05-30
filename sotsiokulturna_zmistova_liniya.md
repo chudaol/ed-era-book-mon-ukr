@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 Соціокультурна змістова лінія
 =============================================
@@ -11,6 +10,5 @@ invisible"></div>
 <p><b><u>Батьківщина:<u></b> назва, державні символи, розташування України в Європі, Україна – спільний дім для всіх народів, які її населяють, роль української мови як державної, державні свята, події історичного минулого, відомі люди минулого й сьогодення, українські національні символи, традиції, народні свята, дитячі фольклорні твори, повага до людей інших національностей, їхніх звичаїв і традицій. </p>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

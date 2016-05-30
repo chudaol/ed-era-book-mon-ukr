@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Навчання грамоти
 
 <p><b>Зміст розділу:</b></p>
@@ -17,3 +19,7 @@
 <li><a href="http://ukrmon14.ed-era.com/1/pislyabukvarniy-period.html">Післябукварний період</a></li>
 </ul>
 </ul>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

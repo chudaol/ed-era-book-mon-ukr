@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Мовна змістова лінія
 
 <p><b>Зміст розділу:</b></p>
@@ -12,3 +14,7 @@
 <li><a href="http://ukrmon14.ed-era.com/2/pravopis.html">Правопис</a></li>
 <li><a href="http://ukrmon14.ed-era.com/2/grafichni_navichki_pisma_tekhnika_pisma_kultura_oformlennya_pismovikh_robit.html">Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
 </ul>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

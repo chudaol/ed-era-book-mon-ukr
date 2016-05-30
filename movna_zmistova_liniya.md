@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 Мовна змістова лінія
 =============================================
@@ -23,6 +22,5 @@ invisible"></div>
 <p>Робота з письма передбачає формування у школярів культури оформлення письмових робіт (відступ від попередньої роботи чи від верхнього краю сторінки, розташування на рядку заголовка, дотримання абзаців, полів, охайність підкреслень, виправлень тощо).</p>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

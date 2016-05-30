@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 Пояснювальна записка
 =============================================
@@ -29,6 +28,5 @@ invisible"></div>
 </ul>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

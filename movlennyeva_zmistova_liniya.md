@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 Мовленнєва змістова лінія
 =============================================
@@ -21,6 +20,5 @@ invisible"></div>
 <p>Загалом формування, розвиток навичок з усіх видів мовленнєвої діяльності, будучи головною метою початкового навчання, займає не менше половини навчального часу на уроках мови.</p>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

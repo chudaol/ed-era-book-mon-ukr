@@ -1,5 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget
-invisible"></div>
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 
 Навчання грамоти
@@ -19,6 +18,5 @@ invisible"></div>
 <p>У 1 класі на роботу з дитячою книжкою рекомендується відводити до 20 хвилин уроку навчання грамоти (<i>один раз на 2 тижні</i>). Якщо учні класу мають достатній рівень розвитку навички читання, учитель може проводити заняття з дитячою книжкою протягом усього уроку.</p>
 
 <div class="js-hypercomments-container">
- <a href="http://hypercomments.com" class="hc-link" title="comments
-widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

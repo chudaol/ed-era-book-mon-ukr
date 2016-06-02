@@ -1,4 +1,4 @@
-# Summary
+### Вступ
 
 * [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
@@ -7,6 +7,9 @@
    * [Мовна змістова лінія](movna_zmistova_liniya.md)
    * [Соціокультурна змістова лінія](sotsiokulturna_zmistova_liniya.md)
    * [Діяльнісна змістова лінія](diyalnisna_zmistova_liniya.md)
+
+### 1 Клас
+
 * [1 клас](1/1_klas.md)
    * [Навчання грамоти](1/navchannya_gramoti.md)
        * [Навчання читати](1/navchannya_chitati.md)
@@ -31,6 +34,9 @@
        * [Формування навчально-інформаційних умінь і навичок](1/formuvannya_navchalno-informatsiynikh_umin_i_navichok.md)
        * [Формування навчально-інтелектуальних і творчих умінь та навичок](1/formuvannya-navchalno-intelektualnikh-i-tvorchikh-umin-ta-navichok.md)
        * [Формування контрольно-оцінювальних умінь і навичок](1/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.md)
+
+### 2 Клас
+
 * [2 клас](2/2_klas.md)
    * [Мовленнєва змістова лінія](2/movlennyeva_zmistova_liniya.md)
        * [Аудіювання](2/audiyuvannya.md)
@@ -52,6 +58,9 @@
        * [Формування навчально-інформаційних умінь і навичок](2/formuvannya_navchalno-informatsiynikh_umin_i_navichok.md)
        * [Формування навчально-інтелектуальних і творчих умінь та навичок](2/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.md)
        * [Формування контрольно-оцінювальних умінь і навичок](2/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.md)
+
+### 3 Клас
+
 * [3 клас](3/3_klas.md)
    * [Мовленнєва змістова лінія](3/movlennyeva_zmistova_liniya.md)
        * [Аудіювання](3/audiyuvannya.md)
@@ -76,6 +85,9 @@
        * [Формування навчально-інформаційних умінь і навичок](3/formuvannya_navchalno-informatsiynikh_umin_i_navichok.md)
        * [Формування навчально-інтелектуальних і творчих умінь та навичок](3/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.md)
        * [Формування контрольно-оцінювальних умінь і навичок](3/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.md)
+
+### 4 Клас
+
 * [4 клас](4/4_klas.md)
    * [Мовленнєва змістова лінія](4/movlennyeva_zmistova_liniya.md)
        * [Аудіювання](4/audiyuvannya.md)

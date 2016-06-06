@@ -3,12 +3,10 @@
 # Іменник 
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
@@ -22,7 +20,7 @@
     <td width="40%" style="vertical-align:top !important;">
 Іменники, що означають назви істот (<i>хто?</i>), та іменники, які означають назви неістот (<i>що?</i>).</td>
     <td width="60%" style="vertical-align:top !important;">
-<i>розрізняє</i> іменники-назви істот і неістот, правильно <i>ставить</i> до них питання; </td>
+<i>розрізнює</i> іменники-назви істот і неістот, правильно <i>ставить</i> до них питання; </td>
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
@@ -40,7 +38,7 @@
     <td width="40%" style="vertical-align:top !important;">
 Вживання іменників у прямому і переносному значеннях.</td>
     <td width="60%" style="vertical-align:top !important;">
-<i>розрізняє і пояснює</i> в процесі навчальної роботи іменники в прямому і переносному значеннях; </td>
+<i>розрізнює і пояснює</i> в процесі навчальної роботи іменники в прямому і переносному значеннях; </td>
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">

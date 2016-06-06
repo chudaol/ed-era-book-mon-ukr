@@ -3,12 +3,10 @@
 # Дієслово   
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
@@ -35,7 +33,7 @@
     <td width="40%" style="vertical-align:top !important;">
 Час дієслова.</td>
     <td width="60%" style="vertical-align:top !important;">
-<i>розрізняє</i> часові форми дієслова; <i>ставить питання</i> до дієслів різних часових форм;</td>
+<i>розрізнює</i> часові форми дієслова; <i>ставить питання</i> до дієслів різних часових форм;</td>
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">

@@ -2,16 +2,17 @@
 
 # Зміст програми
 
-<ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">1 клас</a></li>
-<li><a data-toggle="tab" href="#menu1">2 клас</a></li>
-<li><a data-toggle="tab" href="#menu2">3 клас</a></li>
-<li><a data-toggle="tab" href="#menu3">4 клас</a></li>
-</ul>
-
-<div class="tab-content">
-<div id="home" class="tab-pane fade in active">
-<h3><a href="http://ukrmon14.ed-era.com/1/1_klas.html">1 клас</a></h3>
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">1 клас</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">2 клас</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">3 клас</a></li>
+    <li role="presentation"><a href="#menu3" aria-controls="menu3" role="tab" data-toggle="tab">4 клас</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home"><h3><a href="http://ukrmon14.ed-era.com/1/1_klas.html">1 клас</a></h3>
 <ul type="disc">
 <li><a href="http://ukrmon14.ed-era.com/1/navchannya_gramoti.html">Навчання грамоти</a></li>
 <ul type="circle">
@@ -52,8 +53,7 @@
 </ul>
 </ul>
 </div>
-<div id="menu1" class="tab-pane fade">
-<h3><a href="http://ukrmon14.ed-era.com/2/2_klas.html">2 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu1"><h3><a href="http://ukrmon14.ed-era.com/2/2_klas.html">2 клас</a></h3>
 <ul type="disc">
 <li><a href="http://ukrmon14.ed-era.com/2/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
 <ul type="circle">
@@ -83,8 +83,7 @@
 </ul>
 </ul>
 </div>
-<div id="menu2" class="tab-pane fade">
-<h3><a href="http://ukrmon14.ed-era.com/3/3_klas.html">3 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu2"><h3><a href="http://ukrmon14.ed-era.com/3/3_klas.html">3 клас</a></h3>
 <ul type="disc">
 <li><a href="http://ukrmon14.ed-era.com/3/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
 <ul type="circle">
@@ -119,8 +118,7 @@
 </ul>
 </ul>
 </div>
-<div id="menu3" class="tab-pane fade">
-<h3><a href="http://ukrmon14.ed-era.com/4/4_klas.html">4 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu3"><h3><a href="http://ukrmon14.ed-era.com/4/4_klas.html">4 клас</a></h3>
 <ul type="disc">
 <li><a href="http://ukrmon14.ed-era.com/4/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
 <ul type="circle">
@@ -156,6 +154,7 @@
 </ul>
 </ul>
 </ul>
+</div>
 </div>
 </div>
 
